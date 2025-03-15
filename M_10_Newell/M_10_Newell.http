@@ -1,0 +1,6 @@
+@M_10_Newell_HostAddress = http://localhost:5178
+
+GET {{M_10_Newell_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
